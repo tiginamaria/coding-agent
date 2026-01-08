@@ -1,2 +1,3 @@
-# coding-agent
+# Coding Agent
+
 Koog coding agent
