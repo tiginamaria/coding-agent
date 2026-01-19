@@ -101,6 +101,8 @@ IntelliJ stores ACP agent configurations in a JSON file. To configure your agent
 
 1. Open **IntelliJ IDEA EAP**
 2. Navigate to **AI Chat > Options > Configure ACP Agents** (or **AI Assistant > Settings > ACP Agents**)
+<img width="490" height="746" alt="img" src="https://github.com/user-attachments/assets/5a26c5b2-c7a2-486a-956b-7f3e09f0c938" />
+  
 3. This opens the ACP configuration interface
 
 #### Add Agent Configuration
@@ -170,6 +172,8 @@ Add the following JSON configuration:
 2. Open **AI Chat** (View > Tool Windows > AI Chat or use the toolbar icon)
 3. Click the agent selector dropdown
 4. Select **"Koog Agent"** from the list
+<img width="489" height="749" alt="img_1" src="https://github.com/user-attachments/assets/2b3fbea1-d00f-45d0-8f37-3a392d18357e" />
+   
 5. A new agent instance will be spawned and connected
 
 
